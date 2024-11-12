@@ -5,7 +5,6 @@
 ### About 📌
 
 ### ✔  **Skills :** Python, PHP, MySQL, C++, Docker
-### ✔  **Development Learning:** React Node.js, Next.js, Material UI, React Native,Linux
 
 
 ## Contributing to Open-Source 🔥
